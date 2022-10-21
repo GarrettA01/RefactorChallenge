@@ -7,7 +7,7 @@ Horiseon is a basic front-end webpage describing aspects of Search Engine Optimi
 ## Contents
 
 1. [Deployed Page](#deployed-page)
-2. 2. [Refactored Elements](#refactored-elements)
+2. [Refactored Elements](#refactored-elements)
 3. [Credits](#credits)
 
 ## Deployed Page
@@ -27,5 +27,5 @@ Horiseon is a basic front-end webpage describing aspects of Search Engine Optimi
 
 ## Credits
 
-Horiseon webpage created by [The Coding Bootcamp](https://github.com/coding-boot-camp/urban-octo-telegram)
-Refactoring performed by Garrett Anderson
+*Horiseon webpage created by [The Coding Bootcamp](https://github.com/coding-boot-camp/urban-octo-telegram)
+*Refactoring performed by Garrett Anderson
